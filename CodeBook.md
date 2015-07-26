@@ -52,8 +52,7 @@ in a new variable named aveg
 
 Note: 
 ======
-As the set1.txt data set contains all the columns from Samsung data that match the pattern "std" and "[Mm]ean" it is recommended to check the coresponding README.txt file for their 
-description.
+As the set1.txt data set contains all the columns from Samsung data that match the pattern "std" and "[Mm]ean" it is recommended to check the coresponding README.txt file for their description and units. 
 
 Variable's dimensions:
 ======================
